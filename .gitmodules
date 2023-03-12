@@ -1,0 +1,6 @@
+[submodule "blog_frontend"]
+	path = blog_frontend
+	url = git@github.com:DubiumEkb/blog_frontend.git
+[submodule "blog_backend"]
+	path = blog_backend
+	url = git@github.com:DubiumEkb/blog_backend.git
