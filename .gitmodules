@@ -4,3 +4,6 @@
 [submodule "blog_backend"]
 	path = blog_backend
 	url = git@github.com:DubiumEkb/blog_backend.git
+[submodule "blog_admin"]
+	path = blog_admin
+	url = git@github.com:DubiumEkb/blog_admin.git
